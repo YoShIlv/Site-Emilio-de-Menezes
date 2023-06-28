@@ -28,13 +28,18 @@
 }
 
 .escola{
-    background-image: linear-gradient(#232323,#525252,#858585);
+    background-image: linear-gradient(#232323,#525252,#717171);
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 10%;
 }
 
 .escola-div-conteudo{
     width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }
