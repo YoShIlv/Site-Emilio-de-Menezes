@@ -43,3 +43,26 @@
 .escola-titulo{
     padding: 24px 0;
 }
+
+.estudantes-imagem{
+    width: 170px;
+}
+
+.estudantes-icone{
+    width: 20px;
+}
+
+.estudantes-div{
+    text-align: center;
+}
+
+.estudantes-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20%;
+
+}
